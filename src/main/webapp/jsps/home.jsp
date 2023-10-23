@@ -12,7 +12,7 @@
 <h1 align="center">Welcome to Tesla Web application Dubai Project automation.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising millionaires in IT automation.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
+	We offer Training for DevOps with Linux, Kubernates and Cloud computing, equipping IT Engineers for best performance.
 	Class34 will start on October 14, 2023. </h1>
 <hr>
 <br>
